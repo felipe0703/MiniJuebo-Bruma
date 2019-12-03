@@ -1,1 +1,1 @@
-# MiniJuebo-Bruma
+# MiniJuego-Bruma
